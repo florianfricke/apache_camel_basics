@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order name="motor" amount="1" customer="honda">
+    <article>Motor Diesel</article>
+    <prioritaet>1</prioritaet>
+</order>

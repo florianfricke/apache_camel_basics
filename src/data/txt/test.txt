@@ -1,0 +1,4 @@
+Vorname,Name,Alter
+Florian,Fricke,24
+Max,Müller,32
+Klaus,Schuster,64

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order name="rad" amount="4" customer="vw">
+    <article>Rad mit Felge</article>
+    <prioritaet>5</prioritaet>
+</order>
